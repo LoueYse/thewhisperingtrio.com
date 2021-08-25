@@ -1,0 +1,89 @@
+p{color: #BDBBB7;}
+
+p.fichetec{margin-left: 120px;
+	font-size: 30px}
+
+h1{color: #BDBBB7;
+	margin-left: 120px;
+	font-size: 20px; }
+
+body{background-color: #212120}
+
+h1.headline{font-size : 80px;
+	margin-left: 120px}
+
+a{color: #BDBBB7;}
+
+h1.rightbox{margin-left: 50px;
+font-size:30px;}
+
+h2.contacts{font-size: 30px;
+	margin-left: 120px;
+	color: #BDBBB7; ;}
+
+div#menunav {text-align: right;
+margin-right: 50px;}
+nav.menu-nav ul{display: inline-block;
+	}
+
+nav.menu-nav ul li{
+	font-size: 35px;
+	list-style-type: none;}
+
+nav.menu-nav ul a{text-decoration: none}
+
+nav.menu-nav ul li.btn:hover a{color: #66635d;
+	background-color: #BDBBB7
+	opacity: 50;
+	transition: 0.4s;}
+
+h4.pied{margin-left: 60%;
+	display: inline-block;
+	color: #BDBBB7;}
+
+h4.pied p{display: inline-block;}
+
+h4.pied:hover a{color: #66635d;
+	background-color: #BDBBB7
+	opacity: 50;
+	transition: 0.4s;}
+
+div#content div{display: inline-block;
+width: 46%}
+
+div#content div.leftbox {
+	vertical-align: top;
+	margin-left: 80px}
+
+div#content div.rightbox{ 
+	vertical-align: top;}
+
+div#content2 div.underbox{
+	vertical-align: top;
+	background-color: #BDBBB7;
+	margin : 45px;
+	width: 95%;}
+
+div#content2 div.underbox div.pr{
+	vertical-align: top;
+	display: inline-block;
+	width: 33%;
+}
+div#content2 div.underbox div.pr{text-align: center;}
+
+div#content2 div.underbox img{margin: 20px}
+div#content2 div.underbox div.pr div.txt h1{
+	display: inline-block;
+	color: #0A0806;
+	font-size: 30px;
+	margin-left: 10% ;
+	margin-right:10%;
+}
+
+div#content2 div.underbox div.pr div.txt h2{
+	display: inline-block;
+	color: #0A0806;
+	font-size: 30px;
+	margin-left: 9% ;
+	margin-right:14%;
+} 
